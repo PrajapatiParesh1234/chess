@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxx{
+    margin-left: 300px;
+}
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    float: inline-start;   
+}
+.box1{
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+    background-color: white;
+    float: inline-start;
+}
+.container{
+    float: inline-start;
+}
+.container2{
+    float: inline-start;
+}
